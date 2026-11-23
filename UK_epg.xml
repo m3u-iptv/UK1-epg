@@ -1,0 +1,2816 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="ColorsGujarati.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1090.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1090.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ColorsGujarati</display-name>
+  </channel>
+  <channel id="ColorsCineplex.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1105.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1105.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ColorsCineplex</display-name>
+  </channel>
+  <channel id="Aastha.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3594.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3594.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Aastha</display-name>
+  </channel>
+  <programme channel="Aastha.uk" start="20261122000000 +0000" stop="20261122003000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122003000 +0000" stop="20261122010000 +0000">
+    <title lang="en">Nandubhaiyaji</title>
+    <desc lang="en">Nandubhaiyaji uses the gift of his voice to sing bhajans and kirtans to reach out to the common people praising Lord Krishna and preaching about the culture and traditions of India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122010000 +0000" stop="20261122013000 +0000">
+    <title lang="en">Bhaishri Rameshbhai Oza</title>
+    <desc lang="en">Pujya Bhaishri Rameshbhai Oza has dedicated his life to disseminating the divine teachings of the scriptures to thousands of listeners around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122013000 +0000" stop="20261122020000 +0000">
+    <title lang="en">Kishanbhaiya Sirsawale</title>
+    <desc lang="en">Popular bhajan singer who composes bhajans based on Vrindavan's Granth and Padh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122020000 +0000" stop="20261122023000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122023000 +0000" stop="20261122030000 +0000">
+    <title lang="en">Didi Maa Ritambharaji</title>
+    <desc lang="en">Pujya Didi Maa Ritambharaji is a vibrant and powerful orator popularly known as Sadhvi Ritambhara. She is also the founder of Vatsalya Gram, a women's and children's village.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122030000 +0000" stop="20261122033000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122033000 +0000" stop="20261122040000 +0000">
+    <title lang="en">Devkinandan Thakurji</title>
+    <desc lang="en">Devkinandan Thakurji is a spiritual leader as well as a humanitarian. His Sankirtans are attended by a large number of devotees who feel the presence of Lord Krishna himself present in front.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122040000 +0000" stop="20261122050000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122050000 +0000" stop="20261122073000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122073000 +0000" stop="20261122080000 +0000">
+    <title lang="en">Ayurved Evam Jeevan Darshan</title>
+    <desc lang="en">Programme based on ancient Indian medicinal system of Ayurveda. Acharaji recommends lifestyle and eating habits that one can integrate into their daily lives for healthy happy living.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122080000 +0000" stop="20261122082000 +0000">
+    <title lang="en">Acharya Pradhumanji Maharaj</title>
+    <desc lang="en">Acharya Pradhumanji Maharaj's lectures on Vedic scriptures-Upanishads. Upanishads are considered to contain revealed truths concerning the nature of ultimate reality.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122082000 +0000" stop="20261122084000 +0000">
+    <title lang="en">Pujya Dr. Chinmay Pandya ji</title>
+    <desc lang="en">Pujya Dr. Chinmay Pandya is a spiritual leader, psychiatrist and Pro Vice Chancellor of DSVV, Haridwar. He is AWGP youth voice, founded by his grandfather Yug Rishi Pandit Shriram Sharma Acharya.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122084000 +0000" stop="20261122094000 +0000">
+    <title lang="en">Amrut Ganga - Pujya Amma</title>
+    <desc lang="en">Discourses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122094000 +0000" stop="20261122134500 +0000">
+    <title lang="en">Morari Bapu</title>
+    <desc lang="en">Pujya Morari Bapu is a popular Hindu kathakaar (preacher), who has been giving 9 day long sermons (kathaas) in both Gujarati and Hindi all over the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122134500 +0000" stop="20261122170000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122170000 +0000" stop="20261122190000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122190000 +0000" stop="20261122192500 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122192500 +0000" stop="20261122194500 +0000">
+    <title lang="en">Pujya Rajeev Lochan Prabhu</title>
+    <desc lang="en">Sri Rajeev Lochan Dasa is currently serving as the Temple President of ISKCON Hubli and heading its activities. His lectures are based on the teachings from Shrimad Bhagavatam.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122194500 +0000" stop="20261122203000 +0000">
+    <title lang="en">Seva Ganga - Sadhu Kailash Manav</title>
+    <desc lang="en">Narayan Seva Sansthan is, today, one of the largest organisations committed to totally free services for the poor, people with disabilities and, in particular, people who have had polio.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122203000 +0000" stop="20261122212000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122212000 +0000" stop="20261122214000 +0000">
+    <title lang="en">Ayurved Evam Jeevan Darshan</title>
+    <desc lang="en">Programme based on ancient Indian medicinal system of Ayurveda. Acharaji recommends lifestyle and eating habits that one can integrate into their daily lives for healthy happy living.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122214000 +0000" stop="20261122220000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122220000 +0000" stop="20261122230000 +0000">
+    <title lang="en">Pujya Deepakbhai</title>
+    <desc lang="en">With the ever present gentle smile on his face, in individual interaction or amidst large numbers of seekers in satsang, Pujya Deepakbhai is resolving the individual and personal questions of all.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261122230000 +0000" stop="20261123000000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123000000 +0000" stop="20261123003000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123003000 +0000" stop="20261123010000 +0000">
+    <title lang="en">Nandubhaiyaji</title>
+    <desc lang="en">Nandubhaiyaji uses the gift of his voice to sing bhajans and kirtans to reach out to the common people praising Lord Krishna and preaching about the culture and traditions of India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123010000 +0000" stop="20261123013000 +0000">
+    <title lang="en">Morari Bapu</title>
+    <desc lang="en">Pujya Morari Bapu is a popular Hindu kathakaar (preacher), who has been giving 9 day long sermons (kathaas) in both Gujarati and Hindi all over the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123013000 +0000" stop="20261123020000 +0000">
+    <title lang="en">Kishanbhaiya Sirsawale</title>
+    <desc lang="en">Popular bhajan singer who composes bhajans based on Vrindavan's Granth and Padh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123020000 +0000" stop="20261123023000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123023000 +0000" stop="20261123030000 +0000">
+    <title lang="en">Didi Maa Ritambharaji</title>
+    <desc lang="en">Pujya Didi Maa Ritambharaji is a vibrant and powerful orator popularly known as Sadhvi Ritambhara. She is also the founder of Vatsalya Gram, a women's and children's village.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123030000 +0000" stop="20261123033000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123033000 +0000" stop="20261123040000 +0000">
+    <title lang="en">Devkinandan Thakurji</title>
+    <desc lang="en">Devkinandan Thakurji is a spiritual leader as well as a humanitarian. His Sankirtans are attended by a large number of devotees who feel the presence of Lord Krishna himself present in front.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123040000 +0000" stop="20261123050000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123050000 +0000" stop="20261123073000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123073000 +0000" stop="20261123080000 +0000">
+    <title lang="en">Ayurved Evam Jeevan Darshan</title>
+    <desc lang="en">Programme based on ancient Indian medicinal system of Ayurveda. Acharaji recommends lifestyle and eating habits that one can integrate into their daily lives for healthy happy living.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123080000 +0000" stop="20261123082000 +0000">
+    <title lang="en">Acharya Pradhumanji Maharaj</title>
+    <desc lang="en">Acharya Pradhumanji Maharaj's lectures on Vedic scriptures-Upanishads. Upanishads are considered to contain revealed truths concerning the nature of ultimate reality.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123082000 +0000" stop="20261123084000 +0000">
+    <title lang="en">Anandmurti Gurumaa</title>
+    <desc lang="en">Anandmurti Gurumaa, is a new age spiritual guide. She teaches the disciplines of meditation, yoga, present moment awareness and self realisation, using meditation techniques.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123084000 +0000" stop="20261123090000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123090000 +0000" stop="20261123092000 +0000">
+    <title lang="en">Didi Maa Ritambharaji</title>
+    <desc lang="en">Pujya Didi Maa Ritambharaji is a vibrant and powerful orator popularly known as Sadhvi Ritambhara. She is also the founder of Vatsalya Gram, a women's and children's village.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123092000 +0000" stop="20261123093000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123093000 +0000" stop="20261123110000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123110000 +0000" stop="20261123134500 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123134500 +0000" stop="20261123170000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123170000 +0000" stop="20261123190000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123190000 +0000" stop="20261123192500 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123192500 +0000" stop="20261123194500 +0000">
+    <title lang="en">Pujya Rajeev Lochan Prabhu</title>
+    <desc lang="en">Sri Rajeev Lochan Dasa is currently serving as the Temple President of ISKCON Hubli and heading its activities. His lectures are based on the teachings from Shrimad Bhagavatam.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123194500 +0000" stop="20261123203000 +0000">
+    <title lang="en">Seva Ganga - Sadhu Kailash Manav</title>
+    <desc lang="en">Narayan Seva Sansthan is, today, one of the largest organisations committed to totally free services for the poor, people with disabilities and, in particular, people who have had polio.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123203000 +0000" stop="20261123212000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123212000 +0000" stop="20261123214000 +0000">
+    <title lang="en">Ayurved Evam Jeevan Darshan</title>
+    <desc lang="en">Programme based on ancient Indian medicinal system of Ayurveda. Acharaji recommends lifestyle and eating habits that one can integrate into their daily lives for healthy happy living.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123214000 +0000" stop="20261123220000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123220000 +0000" stop="20261123230000 +0000">
+    <title lang="en">Pujya Deepakbhai</title>
+    <desc lang="en">With the ever present gentle smile on his face, in individual interaction or amidst large numbers of seekers in satsang, Pujya Deepakbhai is resolving the individual and personal questions of all.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261123230000 +0000" stop="20261124000000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124000000 +0000" stop="20261124003000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124003000 +0000" stop="20261124010000 +0000">
+    <title lang="en">Nandubhaiyaji</title>
+    <desc lang="en">Nandubhaiyaji uses the gift of his voice to sing bhajans and kirtans to reach out to the common people praising Lord Krishna and preaching about the culture and traditions of India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124010000 +0000" stop="20261124013000 +0000">
+    <title lang="en">Morari Bapu</title>
+    <desc lang="en">Pujya Morari Bapu is a popular Hindu kathakaar (preacher), who has been giving 9 day long sermons (kathaas) in both Gujarati and Hindi all over the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124013000 +0000" stop="20261124020000 +0000">
+    <title lang="en">Kishanbhaiya Sirsawale</title>
+    <desc lang="en">Popular bhajan singer who composes bhajans based on Vrindavan's Granth and Padh.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124020000 +0000" stop="20261124023000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124023000 +0000" stop="20261124030000 +0000">
+    <title lang="en">Didi Maa Ritambharaji</title>
+    <desc lang="en">Pujya Didi Maa Ritambharaji is a vibrant and powerful orator popularly known as Sadhvi Ritambhara. She is also the founder of Vatsalya Gram, a women's and children's village.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124030000 +0000" stop="20261124033000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124033000 +0000" stop="20261124040000 +0000">
+    <title lang="en">Devkinandan Thakurji</title>
+    <desc lang="en">Devkinandan Thakurji is a spiritual leader as well as a humanitarian. His Sankirtans are attended by a large number of devotees who feel the presence of Lord Krishna himself present in front.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124040000 +0000" stop="20261124050000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124050000 +0000" stop="20261124073000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124073000 +0000" stop="20261124080000 +0000">
+    <title lang="en">Ayurved Evam Jeevan Darshan</title>
+    <desc lang="en">Programme based on ancient Indian medicinal system of Ayurveda. Acharaji recommends lifestyle and eating habits that one can integrate into their daily lives for healthy happy living.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124080000 +0000" stop="20261124082000 +0000">
+    <title lang="en">Acharya Pradhumanji Maharaj</title>
+    <desc lang="en">Acharya Pradhumanji Maharaj's lectures on Vedic scriptures-Upanishads. Upanishads are considered to contain revealed truths concerning the nature of ultimate reality.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124082000 +0000" stop="20261124084000 +0000">
+    <title lang="en">Anandmurti Gurumaa</title>
+    <desc lang="en">Anandmurti Gurumaa, is a new age spiritual guide. She teaches the disciplines of meditation, yoga, present moment awareness and self realisation, using meditation techniques.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124084000 +0000" stop="20261124090000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124090000 +0000" stop="20261124092000 +0000">
+    <title lang="en">Didi Maa Ritambharaji</title>
+    <desc lang="en">Pujya Didi Maa Ritambharaji is a vibrant and powerful orator popularly known as Sadhvi Ritambhara. She is also the founder of Vatsalya Gram, a women's and children's village.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124092000 +0000" stop="20261124093000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124093000 +0000" stop="20261124110000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124110000 +0000" stop="20261124134500 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124134500 +0000" stop="20261124170000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124170000 +0000" stop="20261124190000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124190000 +0000" stop="20261124192500 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124192500 +0000" stop="20261124194500 +0000">
+    <title lang="en">Pujya Rajeev Lochan Prabhu</title>
+    <desc lang="en">Sri Rajeev Lochan Dasa is currently serving as the Temple President of ISKCON Hubli and heading its activities. His lectures are based on the teachings from Shrimad Bhagavatam.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124194500 +0000" stop="20261124203000 +0000">
+    <title lang="en">Seva Ganga - Sadhu Kailash Manav</title>
+    <desc lang="en">Narayan Seva Sansthan is, today, one of the largest organisations committed to totally free services for the poor, people with disabilities and, in particular, people who have had polio.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124203000 +0000" stop="20261124220000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261124220000 +0000" stop="20261125000000 +0000">
+    <title lang="en">Guru Nanakdev Jayanti Mahotsav</title>
+    <desc lang="en">Guru Nanak Dev, the first Sikh guru &amp; founder of the Sikh religion, was born on the full moon day in the month of Kartik as per the Hindu calendar. His birthday is celebrated as Guru Nanak Jayanti.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125000000 +0000" stop="20261125020000 +0000">
+    <title lang="en">Guru Nanakdev Jayanti Mahotsav</title>
+    <desc lang="en">Guru Nanak Dev, the first Sikh guru &amp; founder of the Sikh religion, was born on the full moon day in the month of Kartik as per the Hindu calendar. His birthday is celebrated as Guru Nanak Jayanti.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125020000 +0000" stop="20261125023000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125023000 +0000" stop="20261125030000 +0000">
+    <title lang="en">Didi Maa Ritambharaji</title>
+    <desc lang="en">Pujya Didi Maa Ritambharaji is a vibrant and powerful orator popularly known as Sadhvi Ritambhara. She is also the founder of Vatsalya Gram, a women's and children's village.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125030000 +0000" stop="20261125033000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125033000 +0000" stop="20261125040000 +0000">
+    <title lang="en">Devkinandan Thakurji</title>
+    <desc lang="en">Devkinandan Thakurji is a spiritual leader as well as a humanitarian. His Sankirtans are attended by a large number of devotees who feel the presence of Lord Krishna himself present in front.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125040000 +0000" stop="20261125050000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125050000 +0000" stop="20261125073000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125073000 +0000" stop="20261125080000 +0000">
+    <title lang="en">Ayurved Evam Jeevan Darshan</title>
+    <desc lang="en">Programme based on ancient Indian medicinal system of Ayurveda. Acharaji recommends lifestyle and eating habits that one can integrate into their daily lives for healthy happy living.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125080000 +0000" stop="20261125082000 +0000">
+    <title lang="en">Acharya Pradhumanji Maharaj</title>
+    <desc lang="en">Acharya Pradhumanji Maharaj's lectures on Vedic scriptures-Upanishads. Upanishads are considered to contain revealed truths concerning the nature of ultimate reality.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125082000 +0000" stop="20261125084000 +0000">
+    <title lang="en">Anandmurti Gurumaa</title>
+    <desc lang="en">Anandmurti Gurumaa, is a new age spiritual guide. She teaches the disciplines of meditation, yoga, present moment awareness and self realisation, using meditation techniques.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125084000 +0000" stop="20261125090000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125090000 +0000" stop="20261125092000 +0000">
+    <title lang="en">Didi Maa Ritambharaji</title>
+    <desc lang="en">Pujya Didi Maa Ritambharaji is a vibrant and powerful orator popularly known as Sadhvi Ritambhara. She is also the founder of Vatsalya Gram, a women's and children's village.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125092000 +0000" stop="20261125093000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125093000 +0000" stop="20261125110000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125110000 +0000" stop="20261125134500 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125134500 +0000" stop="20261125170000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125170000 +0000" stop="20261125190000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125190000 +0000" stop="20261125192500 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125192500 +0000" stop="20261125194500 +0000">
+    <title lang="en">Pujya Rajeev Lochan Prabhu</title>
+    <desc lang="en">Sri Rajeev Lochan Dasa is currently serving as the Temple President of ISKCON Hubli and heading its activities. His lectures are based on the teachings from Shrimad Bhagavatam.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125194500 +0000" stop="20261125203000 +0000">
+    <title lang="en">Seva Ganga - Sadhu Kailash Manav</title>
+    <desc lang="en">Narayan Seva Sansthan is, today, one of the largest organisations committed to totally free services for the poor, people with disabilities and, in particular, people who have had polio.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125203000 +0000" stop="20261125212000 +0000">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Swami Ramdevji Maharaj, one of the world's leading, most popular and highly result-oriented Yogacharya, has become a household name owing to his ability to simplify yoga techniques for the masses.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125212000 +0000" stop="20261125214000 +0000">
+    <title lang="en">Ayurved Evam Jeevan Darshan</title>
+    <desc lang="en">Programme based on ancient Indian medicinal system of Ayurveda. Acharaji recommends lifestyle and eating habits that one can integrate into their daily lives for healthy happy living.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125214000 +0000" stop="20261125220000 +0000">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Devotional songs/music.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125220000 +0000" stop="20261125230000 +0000">
+    <title lang="en">Pujya Deepakbhai</title>
+    <desc lang="en">With the ever present gentle smile on his face, in individual interaction or amidst large numbers of seekers in satsang, Pujya Deepakbhai is resolving the individual and personal questions of all.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="Aastha.uk" start="20261125230000 +0000" stop="20261126000000 +0000">
+    <title lang="en">Aastha Special</title>
+    <desc lang="en">Live Special Telecast of Katha by revered saints and gurus from India.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Religion</category>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261122025500 +0000" stop="20261122050000 +0000">
+    <title lang="en">Jeene Do: Let Us Live</title>
+    <desc lang="en">An ambitious cyclist arrives in Mumbai for a championship final, but his world flips when he uncovers his family's painful past, driving him into a dangerous quest for vengeance.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/68286d45-e1ba-4130-8860-9e31e4682f7a/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261122050000 +0000" stop="20261122052500 +0000">
+    <title lang="en">Cinebuzz</title>
+    <desc lang="en">Celebrity interviews, movie reviews, and the latest Bollywood buzz-Cinebuzz brings you the glam and gossip straight from the heart of Indian cinema.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0f44a74b-c9c8-4d25-9948-76cc063add23/16-9" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261122052500 +0000" stop="20261122082000 +0000">
+    <title lang="en">Vardi</title>
+    <desc lang="en">A fearless police officer takes on a dangerous criminal network, risking his life to uphold justice and protect society from corruption and violence.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8398dfab-68b9-4419-a43f-3e36af3d8789/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261122082000 +0000" stop="20261122104500 +0000">
+    <title lang="en">Dus</title>
+    <desc lang="en">When terrorist Jamwaal plots destruction in Canada during the Indian Prime Minister's visit, a skilled team of Indian agents is deployed on a dangerous mission to stop his deadly plan.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3f6d0ea4-3ff4-43b6-9fc9-c665c8660840/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261122104500 +0000" stop="20261122144500 +0000">
+    <title lang="en">Swades</title>
+    <desc lang="en">Mohan, an Indian expatriate employed with NASA, travels to his country to track down his beloved nanny, Kaveri. During his stay, he finds himself advocating for reform in a village.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Musical</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e2cfc44c-309a-4f4a-a852-5517a8068f24/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261122144500 +0000" stop="20261122180000 +0000">
+    <title lang="en">Yuva</title>
+    <desc lang="en">Three Kolkata youths: an idealist leader, a money-minded immigrant aspirant, and a brutal goon become linked after a daylight murder attempt on Hooghly bridge that day.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8ed7fbfd-6576-43c6-837f-fef4d1597d36/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261122180000 +0000" stop="20261122210000 +0000">
+    <title lang="en">Haseena Maan Jaayegi</title>
+    <desc lang="en">After a prank angers their father, mischievous brothers Sonu and Monu are sent to Goa for work, where they fall in love and try every trick to win their beloveds' father's approval.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a23aafc3-7543-4437-87fd-7d78ae585024/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261122210000 +0000" stop="20261123000000 +0000">
+    <title lang="en">Chand Mera Dil - 2026</title>
+    <desc lang="en">Veera, a carefree man, enters the competitive world of traditional wrestling, where rivalry, romance and determination transform his life.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/81422459-9fc4-4d25-b07f-545eab3c3291/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261123000000 +0000" stop="20261123033500 +0000">
+    <title lang="en">Mahaan</title>
+    <desc lang="en">A lawyer hides after being falsely accused. His wife gives birth to twins. Years later, fate reunites the family under painful but healing circumstances. Love finds its way back.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3dbac35c-ef3d-447f-8b80-c5223f150968/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261123033500 +0000" stop="20261123040000 +0000">
+    <title lang="en">Cinebuzz</title>
+    <desc lang="en">Celebrity interviews, movie reviews, and the latest Bollywood buzz-Cinebuzz brings you the glam and gossip straight from the heart of Indian cinema.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0f44a74b-c9c8-4d25-9948-76cc063add23/16-9" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261123040000 +0000" stop="20261123062000 +0000">
+    <title lang="en">Tiger Nageswara Rao</title>
+    <desc lang="en">In the 1970s, daring thief Tiger Nageswara Rao rises to infamy through audacious heists and ingenious escapes, becoming a legend as he outsmarts the police at every turn.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9517cea4-9ca4-3267-8302-2e43d91a828d/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261123062000 +0000" stop="20261123085500 +0000">
+    <title lang="en">Qila</title>
+    <desc lang="en">After his brother Jaganath is murdered, Amarnath begins a tense investigation. Shockingly, clues point toward his own sister-in-law and nephew, turning the hunt into a painful battle with suspicion.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f257f3a0-8708-466a-beca-648be9427ea5/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261123085500 +0000" stop="20261123121500 +0000">
+    <title lang="en">Deewaar</title>
+    <desc lang="en">Two Bombay brothers: Vijay the smuggler and Ravi the policeman. Father's disgrace, mother's hardship, and a split path push them toward crime, loyalty, and law.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/49715c44-b9fc-4390-8901-03cee04ccfd8/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261123121500 +0000" stop="20261123145500 +0000">
+    <title lang="en">Abhimaan</title>
+    <desc lang="en">Three brothers separated in childhood are raised in different faiths and eventually reunite as adults, joining forces against criminals while rediscovering their lost family bond.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1865cbf-efdf-41b0-9a70-7f0065331db0/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261123145500 +0000" stop="20261123180000 +0000">
+    <title lang="en">Tevar</title>
+    <desc lang="en">A kabaddi player tries to safeguard a young woman hounded by a deadly factional leader who wants to marry her against her wish. Eventually, they both fall in love with each other.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ada68084-2655-4b4f-867c-41933132201c/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261123180000 +0000" stop="20261123210000 +0000">
+    <title lang="en">Albela</title>
+    <desc lang="en">Tony, a tour guide, falls for his client Sonia and tries to win her heart, but she doesn't feel the same as she is already in love with someone else.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cfd46c5e-5508-40c8-b111-00fb765902d3/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261123210000 +0000" stop="20261123235500 +0000">
+    <title lang="en">Kunwara</title>
+    <desc lang="en">Raju and Urmila fell in love in New Zealand. Helping a pregnant woman with a troubled past puts Raju's relationship at risk, forcing him to choose between hearts.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9e931559-8b1f-4836-9701-c2ae2b1bfaaa/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261123235500 +0000" stop="20261124021500 +0000">
+    <title lang="en">Aatank</title>
+    <desc lang="en">A coastal village finds black pearls in the sea, but their greed turns deadly when a fierce man-eating shark rises from the ocean's depths to protect its home.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <icon src="https://images.metadata.sky.com/pd-image/59a109b5-2133-4b7f-97e1-19edace8374b/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261124021500 +0000" stop="20261124023500 +0000">
+    <title lang="en">Cinebuzz</title>
+    <desc lang="en">Celebrity interviews, movie reviews, and the latest Bollywood buzz-Cinebuzz brings you the glam and gossip straight from the heart of Indian cinema.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0f44a74b-c9c8-4d25-9948-76cc063add23/16-9" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261124023500 +0000" stop="20261124050000 +0000">
+    <title lang="en">I M 24</title>
+    <desc lang="en">An honest writer falls for a beauty queen and toys with lies, aided by a lying roommate, sparking a funny romance that challenges his honesty.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3eae88f1-0873-4bb9-9f06-a12419c5a49c/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261124050000 +0000" stop="20261124071000 +0000">
+    <title lang="en">Phamous</title>
+    <desc lang="en">Set in wild east, Kadak Singh and Ram Vijay clash with patriarch Shambhu as love, power, and revenge collide, revealing loyalty, hope, and cost of ambition.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/515b40a0-05a3-345a-a4bb-2067adb99e36/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261124071000 +0000" stop="20261124092000 +0000">
+    <title lang="en">Afra Tafri</title>
+    <desc lang="en">A young man jeopardises his marriage after drunkenly messaging his wife, and upon realising his grave mistake, he struggles desperately to repair the damage and win her trust back.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/427ad2e6-d235-4ce2-8f18-50eecdec1876/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261124092000 +0000" stop="20261124113000 +0000">
+    <title lang="en">Ram Jaane</title>
+    <desc lang="en">Ram Jaane, an orphan who becomes a feared criminal, is urged by his social worker friend to change his ways. But he cares more about winning Bela's love than choosing a better path in life.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2af111e0-55cf-3804-a8a5-2b803d4826b7/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261124113000 +0000" stop="20261124150500 +0000">
+    <title lang="en">Silsila</title>
+    <desc lang="en">Amit sacrifices his love and gets married to his deceased brother's pregnant fiancee. However, when fate brings him face-to-face with his former flame, he decides to give in to his desires.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/767024f9-0480-449e-b9f3-1c378c4fa75c/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261124150500 +0000" stop="20261124180000 +0000">
+    <title lang="en">Hasee Toh Phasee</title>
+    <desc lang="en">Nikhil, a struggling businessman, plans to marry his girlfriend Karishma but finds himself drawn to her quirky, intelligent sister Meeta, leading to a heartfelt and complicated love triangle.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ac26ff01-1b53-4822-b2f2-4b40dcd229b8/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261124180000 +0000" stop="20261124205000 +0000">
+    <title lang="en">Shriman Shrimati</title>
+    <desc lang="en">A charming married couple navigates playful misunderstandings, quirky situations and family dynamics that bring laughter and warmth to their everyday life.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4ff5ab32-f744-48ea-bd1c-77dc93aadd02/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261124205000 +0000" stop="20261124235000 +0000">
+    <title lang="en">Drona</title>
+    <desc lang="en">Orphaned Aditya discovers he belongs to a family of ancient warriors guarding a mystical cosmic energy. He must embrace his destiny and shoulder the responsibilities of his powerful lineage.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9f0bbc30-1e20-49ac-a083-e672ce2d59f5/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261124235000 +0000" stop="20261125030000 +0000">
+    <title lang="en">Aur Pyaar Ho Gaya</title>
+    <desc lang="en">When Ashi's father arranges her marriage to Switzerland-based Rohit, she decides to learn more about him first. But things go awry when she meets Bobby and mistakenly believes he is Rohit.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c312f7a5-2cad-4939-8594-85e7d45acb93/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261125030000 +0000" stop="20261125033000 +0000">
+    <title lang="en">Cakewalk</title>
+    <desc lang="en">A young woman who works as a chef faces various challenges as she tries to maintain a balance between her personal and professional commitments.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/22428147-b249-4a6b-a365-555a2fb56157/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261125033000 +0000" stop="20261125040000 +0000">
+    <title lang="en">Cinebuzz</title>
+    <desc lang="en">Celebrity interviews, movie reviews, and the latest Bollywood buzz-Cinebuzz brings you the glam and gossip straight from the heart of Indian cinema.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0f44a74b-c9c8-4d25-9948-76cc063add23/16-9" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261125040000 +0000" stop="20261125061000 +0000">
+    <title lang="en">Dedh Bigha Zameen</title>
+    <desc lang="en">Anil sells land for his sister's wedding, but a powerful official steals it. He fights for justice, enduring threats and betrayal to finally reclaim what's his.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/65fe75e0-2cf8-3a00-92de-1830b3daeb1b/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261125061000 +0000" stop="20261125090000 +0000">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">The epic story of the family feud between the noble Pandava princes and their scheming cousins, the Kaurava kings.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8671bdad-2c8e-4293-9677-8a01cd2d0b5f/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261125090000 +0000" stop="20261125112000 +0000">
+    <title lang="en">Dil Se</title>
+    <desc lang="en">Journalist Amar falls for a mysterious woman who ignores his love. But as he prepares to marry someone else, she unexpectedly appears at his doorstep, seeking his help and changing his plans.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c75da633-2c98-4b01-a440-bc7c2548c0eb/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261125112000 +0000" stop="20261125145000 +0000">
+    <title lang="en">Kaala Patthar - 1979</title>
+    <desc lang="en">Mining engineer Vijay faces harsh conditions and greedy bosses while protecting workers in a dangerous mine.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/549e06b0-754b-471a-919b-d033b56de27e/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261125145000 +0000" stop="20261125180000 +0000">
+    <title lang="en">Khoobsurat</title>
+    <desc lang="en">Sanju, desperate to save himself and Gudia, poses as an NRI relative to swindle money from the Chaudharys, but finds more than he bargained for inside their home.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c6c30b7d-de46-49cc-bc8e-9ca12c5939c2/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261125180000 +0000" stop="20261125214000 +0000">
+    <title lang="en">Saajan</title>
+    <desc lang="en">Brothers Aman and Akash both fall for Pooja. While each is ready to sacrifice his love for the other, the choice ultimately lies with Pooja, who must decide between them.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b6052715-cef7-41d4-9e08-94ae3d110231/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261125214000 +0000" stop="20261125235500 +0000">
+    <title lang="en">Bbuddah Hoga Terra Baap</title>
+    <desc lang="en">Vijju, an ex-convict called from Paris to kill ACP Karan Malhotra, meets his old love and estranged wife, leading him to leave behind his dark past and criminal life.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/35b36c2a-dea5-35c8-b83f-e50991a1e34a/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsCineplex.uk" start="20261125235500 +0000" stop="20261126025500 +0000">
+    <title lang="en">Dhanwaan</title>
+    <desc lang="en">Kashinath and Imli are in love, but their world is shaken when a rich woman, Anjali, falls for Kashinath, and Imli reveals she is battling a serious heart condition.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b89f9a22-c3de-4e4e-a80e-465c962fd450/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122000000 +0000" stop="20261122003000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dd4345b-5f8b-44b2-986d-ca7db7c3f519/16-9" />
+    <episode-num system="xmltv_ns">0.982.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122003000 +0000" stop="20261122010000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1ab7851-0b02-4797-8e00-cfe0d5e2a971/16-9" />
+    <episode-num system="xmltv_ns">0.249.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122010000 +0000" stop="20261122013000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/235c5f51-5b1c-4d6a-898a-fa12c51e200b/16-9" />
+    <episode-num system="xmltv_ns">0.522.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122013000 +0000" stop="20261122020000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/15b1439d-d431-4005-8724-ae014f3ab698/16-9" />
+    <episode-num system="xmltv_ns">0.251.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122020000 +0000" stop="20261122023000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6484cc69-8209-4ad6-828c-e781f270317e/16-9" />
+    <episode-num system="xmltv_ns">0.835.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122023000 +0000" stop="20261122030000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d81b33ba-e7ee-432e-8932-1617874f49e1/16-9" />
+    <episode-num system="xmltv_ns">0.836.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122030000 +0000" stop="20261122040000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fa8c24f6-dd82-450b-9abe-c2cfbd55704c/16-9" />
+    <episode-num system="xmltv_ns">0.7210.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122040000 +0000" stop="20261122043000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/15b1439d-d431-4005-8724-ae014f3ab698/16-9" />
+    <episode-num system="xmltv_ns">0.251.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122043000 +0000" stop="20261122050000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1ab7851-0b02-4797-8e00-cfe0d5e2a971/16-9" />
+    <episode-num system="xmltv_ns">0.249.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122050000 +0000" stop="20261122060000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/889b422a-6a85-4569-b5f0-866ff04a9b2a/16-9" />
+    <episode-num system="xmltv_ns">0.41.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122060000 +0000" stop="20261122063000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/38ec5e6f-b866-4933-a84c-6f6a69add921/16-9" />
+    <episode-num system="xmltv_ns">0.248.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122063000 +0000" stop="20261122070000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1fd643c4-b40a-4381-9ff8-5de8196019f0/16-9" />
+    <episode-num system="xmltv_ns">0.249.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122070000 +0000" stop="20261122073000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9acb51b0-2dbb-41e8-8a48-f483c00d7ff8/16-9" />
+    <episode-num system="xmltv_ns">0.250.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122073000 +0000" stop="20261122080000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/15b1439d-d431-4005-8724-ae014f3ab698/16-9" />
+    <episode-num system="xmltv_ns">0.251.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122080000 +0000" stop="20261122090000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dea5fcd0-7556-4b6f-96f0-88741c3a9524/16-9" />
+    <episode-num system="xmltv_ns">0.39.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122090000 +0000" stop="20261122100000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a0ce09de-84d7-450a-b0f8-d80c076161c0/16-9" />
+    <episode-num system="xmltv_ns">0.40.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122100000 +0000" stop="20261122110000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/889b422a-6a85-4569-b5f0-866ff04a9b2a/16-9" />
+    <episode-num system="xmltv_ns">0.41.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122110000 +0000" stop="20261122113000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dc607f7e-7708-4961-aead-ae579920d301/16-9" />
+    <episode-num system="xmltv_ns">0.245.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122113000 +0000" stop="20261122120000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1fa025a9-fc72-400b-859a-5bcbbf0a1e63/16-9" />
+    <episode-num system="xmltv_ns">0.246.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122120000 +0000" stop="20261122123000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ce806da0-0728-41c0-b768-4ec3725d33e4/16-9" />
+    <episode-num system="xmltv_ns">0.247.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122123000 +0000" stop="20261122130000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a4f15407-3acd-4c4f-9215-59c6af428484/16-9" />
+    <episode-num system="xmltv_ns">0.248.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122130000 +0000" stop="20261122133000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1ab7851-0b02-4797-8e00-cfe0d5e2a971/16-9" />
+    <episode-num system="xmltv_ns">0.249.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122133000 +0000" stop="20261122140000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a4f9e9b7-d49c-4be7-9d59-0df4ac992a4c/16-9" />
+    <episode-num system="xmltv_ns">0.978.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122140000 +0000" stop="20261122143000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4ff1dcf0-5599-4fc4-9130-1b51718b3391/16-9" />
+    <episode-num system="xmltv_ns">0.979.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122143000 +0000" stop="20261122150000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7f7bc419-fef7-4699-9cca-0bd495e0bfdb/16-9" />
+    <episode-num system="xmltv_ns">0.980.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122150000 +0000" stop="20261122153000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/381658bc-1b5e-4e19-9f1b-c93207cbefbc/16-9" />
+    <episode-num system="xmltv_ns">0.981.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122153000 +0000" stop="20261122160000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dd4345b-5f8b-44b2-986d-ca7db7c3f519/16-9" />
+    <episode-num system="xmltv_ns">0.982.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122160000 +0000" stop="20261122163000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5682732d-e5a5-4c65-85b3-17cb4a9b6049/16-9" />
+    <episode-num system="xmltv_ns">0.412.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122163000 +0000" stop="20261122170000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a98c7c16-c7b3-4080-983f-1ea6e62e94e3/16-9" />
+    <episode-num system="xmltv_ns">0.413.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122170000 +0000" stop="20261122173000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b9493271-cab6-480d-b931-106eaf0b0b0e/16-9" />
+    <episode-num system="xmltv_ns">0.414.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122173000 +0000" stop="20261122180000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b35b3878-f902-4aaa-a2a2-7c2f36729d99/16-9" />
+    <episode-num system="xmltv_ns">0.415.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122180000 +0000" stop="20261122183000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/76ceef13-dcac-439d-b71c-16fc9c3bcfda/16-9" />
+    <episode-num system="xmltv_ns">0.833.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122183000 +0000" stop="20261122190000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f216f396-274c-4d66-ad32-36f52ec5757c/16-9" />
+    <episode-num system="xmltv_ns">0.820.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122190000 +0000" stop="20261122193000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6484cc69-8209-4ad6-828c-e781f270317e/16-9" />
+    <episode-num system="xmltv_ns">0.835.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122193000 +0000" stop="20261122200000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d81b33ba-e7ee-432e-8932-1617874f49e1/16-9" />
+    <episode-num system="xmltv_ns">0.836.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122200000 +0000" stop="20261122203000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a9a4c692-4140-4c3b-8bca-9a0d68203875/16-9" />
+    <episode-num system="xmltv_ns">0.519.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122203000 +0000" stop="20261122210000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f44dec72-2e6b-45a5-bf48-e0e5662b41a2/16-9" />
+    <episode-num system="xmltv_ns">0.520.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122210000 +0000" stop="20261122213000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0ca87846-4bc5-4c55-bd30-8a6469020adf/16-9" />
+    <episode-num system="xmltv_ns">0.521.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122213000 +0000" stop="20261122220000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/235c5f51-5b1c-4d6a-898a-fa12c51e200b/16-9" />
+    <episode-num system="xmltv_ns">0.522.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122220000 +0000" stop="20261122223000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/76ceef13-dcac-439d-b71c-16fc9c3bcfda/16-9" />
+    <episode-num system="xmltv_ns">0.833.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122223000 +0000" stop="20261122230000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f216f396-274c-4d66-ad32-36f52ec5757c/16-9" />
+    <episode-num system="xmltv_ns">0.820.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122230000 +0000" stop="20261122233000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6484cc69-8209-4ad6-828c-e781f270317e/16-9" />
+    <episode-num system="xmltv_ns">0.835.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261122233000 +0000" stop="20261123000000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d81b33ba-e7ee-432e-8932-1617874f49e1/16-9" />
+    <episode-num system="xmltv_ns">0.836.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123000000 +0000" stop="20261123003000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4ff1dcf0-5599-4fc4-9130-1b51718b3391/16-9" />
+    <episode-num system="xmltv_ns">0.979.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123003000 +0000" stop="20261123010000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7f7bc419-fef7-4699-9cca-0bd495e0bfdb/16-9" />
+    <episode-num system="xmltv_ns">0.980.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123010000 +0000" stop="20261123013000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/381658bc-1b5e-4e19-9f1b-c93207cbefbc/16-9" />
+    <episode-num system="xmltv_ns">0.981.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123013000 +0000" stop="20261123020000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dd4345b-5f8b-44b2-986d-ca7db7c3f519/16-9" />
+    <episode-num system="xmltv_ns">0.982.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123020000 +0000" stop="20261123023000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5682732d-e5a5-4c65-85b3-17cb4a9b6049/16-9" />
+    <episode-num system="xmltv_ns">0.412.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123023000 +0000" stop="20261123030000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a98c7c16-c7b3-4080-983f-1ea6e62e94e3/16-9" />
+    <episode-num system="xmltv_ns">0.413.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123030000 +0000" stop="20261123033000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b9493271-cab6-480d-b931-106eaf0b0b0e/16-9" />
+    <episode-num system="xmltv_ns">0.414.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123033000 +0000" stop="20261123040000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b35b3878-f902-4aaa-a2a2-7c2f36729d99/16-9" />
+    <episode-num system="xmltv_ns">0.415.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123040000 +0000" stop="20261123050000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1332d03f-78e2-4433-806e-91bbb662e9a5/16-9" />
+    <episode-num system="xmltv_ns">0.7209.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123050000 +0000" stop="20261123060000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fa8c24f6-dd82-450b-9abe-c2cfbd55704c/16-9" />
+    <episode-num system="xmltv_ns">0.7210.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123060000 +0000" stop="20261123063000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/235c5f51-5b1c-4d6a-898a-fa12c51e200b/16-9" />
+    <episode-num system="xmltv_ns">0.522.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123063000 +0000" stop="20261123070000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b35b3878-f902-4aaa-a2a2-7c2f36729d99/16-9" />
+    <episode-num system="xmltv_ns">0.415.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123070000 +0000" stop="20261123080000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fa8c24f6-dd82-450b-9abe-c2cfbd55704c/16-9" />
+    <episode-num system="xmltv_ns">0.7210.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123080000 +0000" stop="20261123090000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/889b422a-6a85-4569-b5f0-866ff04a9b2a/16-9" />
+    <episode-num system="xmltv_ns">0.41.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123090000 +0000" stop="20261123093000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/15b1439d-d431-4005-8724-ae014f3ab698/16-9" />
+    <episode-num system="xmltv_ns">0.251.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123093000 +0000" stop="20261123100000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dd4345b-5f8b-44b2-986d-ca7db7c3f519/16-9" />
+    <episode-num system="xmltv_ns">0.982.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123100000 +0000" stop="20261123103000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1ab7851-0b02-4797-8e00-cfe0d5e2a971/16-9" />
+    <episode-num system="xmltv_ns">0.249.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123103000 +0000" stop="20261123110000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b35b3878-f902-4aaa-a2a2-7c2f36729d99/16-9" />
+    <episode-num system="xmltv_ns">0.415.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123110000 +0000" stop="20261123120000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fa8c24f6-dd82-450b-9abe-c2cfbd55704c/16-9" />
+    <episode-num system="xmltv_ns">0.7210.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123120000 +0000" stop="20261123123000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/235c5f51-5b1c-4d6a-898a-fa12c51e200b/16-9" />
+    <episode-num system="xmltv_ns">0.522.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123123000 +0000" stop="20261123130000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/15b1439d-d431-4005-8724-ae014f3ab698/16-9" />
+    <episode-num system="xmltv_ns">0.251.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123130000 +0000" stop="20261123133000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dd4345b-5f8b-44b2-986d-ca7db7c3f519/16-9" />
+    <episode-num system="xmltv_ns">0.982.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123133000 +0000" stop="20261123140000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1ab7851-0b02-4797-8e00-cfe0d5e2a971/16-9" />
+    <episode-num system="xmltv_ns">0.249.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123140000 +0000" stop="20261123143000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b35b3878-f902-4aaa-a2a2-7c2f36729d99/16-9" />
+    <episode-num system="xmltv_ns">0.415.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123143000 +0000" stop="20261123150000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6484cc69-8209-4ad6-828c-e781f270317e/16-9" />
+    <episode-num system="xmltv_ns">0.835.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123150000 +0000" stop="20261123153000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d81b33ba-e7ee-432e-8932-1617874f49e1/16-9" />
+    <episode-num system="xmltv_ns">0.836.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123153000 +0000" stop="20261123160000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/15b1439d-d431-4005-8724-ae014f3ab698/16-9" />
+    <episode-num system="xmltv_ns">0.251.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123160000 +0000" stop="20261123163000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dd4345b-5f8b-44b2-986d-ca7db7c3f519/16-9" />
+    <episode-num system="xmltv_ns">0.982.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123163000 +0000" stop="20261123170000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/235c5f51-5b1c-4d6a-898a-fa12c51e200b/16-9" />
+    <episode-num system="xmltv_ns">0.522.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123170000 +0000" stop="20261123180000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/97a394da-a1b7-4d37-a808-9898a2775866/16-9" />
+    <episode-num system="xmltv_ns">0.7211.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123180000 +0000" stop="20261123190000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3ce38614-0832-4007-89ce-931f8f044a99/16-9" />
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123190000 +0000" stop="20261123193000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/83083612-887b-4a90-a80c-8874f083fdf2/16-9" />
+    <episode-num system="xmltv_ns">0.250.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123193000 +0000" stop="20261123200000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fabeb12-fc07-4458-9bf6-9a10eca261dc/16-9" />
+    <episode-num system="xmltv_ns">0.252.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123200000 +0000" stop="20261123203000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/93ca569c-9d49-400a-80b6-b743aa7e4c85/16-9" />
+    <episode-num system="xmltv_ns">0.416.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123203000 +0000" stop="20261123210000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10a3e11b-b66c-40dc-af6b-df0a3ee21ff6/16-9" />
+    <episode-num system="xmltv_ns">0.983.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123210000 +0000" stop="20261123213000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/73f855e6-101b-4387-8e37-30aa04f66601/16-9" />
+    <episode-num system="xmltv_ns">0.523.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123213000 +0000" stop="20261123220000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6f1ed416-a971-4e40-aaa7-34505f4976f0/16-9" />
+    <episode-num system="xmltv_ns">0.837.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123220000 +0000" stop="20261123223000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/99bb31d7-d8b2-4aa0-b5a7-123d074852a5/16-9" />
+    <episode-num system="xmltv_ns">0.822.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123223000 +0000" stop="20261123233000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3ce38614-0832-4007-89ce-931f8f044a99/16-9" />
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261123233000 +0000" stop="20261124000000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/93ca569c-9d49-400a-80b6-b743aa7e4c85/16-9" />
+    <episode-num system="xmltv_ns">0.416.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124000000 +0000" stop="20261124003000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10a3e11b-b66c-40dc-af6b-df0a3ee21ff6/16-9" />
+    <episode-num system="xmltv_ns">0.983.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124003000 +0000" stop="20261124010000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/83083612-887b-4a90-a80c-8874f083fdf2/16-9" />
+    <episode-num system="xmltv_ns">0.250.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124010000 +0000" stop="20261124013000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/73f855e6-101b-4387-8e37-30aa04f66601/16-9" />
+    <episode-num system="xmltv_ns">0.523.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124013000 +0000" stop="20261124020000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fabeb12-fc07-4458-9bf6-9a10eca261dc/16-9" />
+    <episode-num system="xmltv_ns">0.252.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124020000 +0000" stop="20261124023000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6f1ed416-a971-4e40-aaa7-34505f4976f0/16-9" />
+    <episode-num system="xmltv_ns">0.837.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124023000 +0000" stop="20261124030000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/99bb31d7-d8b2-4aa0-b5a7-123d074852a5/16-9" />
+    <episode-num system="xmltv_ns">0.822.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124030000 +0000" stop="20261124040000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/97a394da-a1b7-4d37-a808-9898a2775866/16-9" />
+    <episode-num system="xmltv_ns">0.7211.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124040000 +0000" stop="20261124043000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fabeb12-fc07-4458-9bf6-9a10eca261dc/16-9" />
+    <episode-num system="xmltv_ns">0.252.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124043000 +0000" stop="20261124050000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/83083612-887b-4a90-a80c-8874f083fdf2/16-9" />
+    <episode-num system="xmltv_ns">0.250.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124050000 +0000" stop="20261124060000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3ce38614-0832-4007-89ce-931f8f044a99/16-9" />
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124060000 +0000" stop="20261124063000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/73f855e6-101b-4387-8e37-30aa04f66601/16-9" />
+    <episode-num system="xmltv_ns">0.523.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124063000 +0000" stop="20261124070000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/93ca569c-9d49-400a-80b6-b743aa7e4c85/16-9" />
+    <episode-num system="xmltv_ns">0.416.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124070000 +0000" stop="20261124080000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/97a394da-a1b7-4d37-a808-9898a2775866/16-9" />
+    <episode-num system="xmltv_ns">0.7211.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124080000 +0000" stop="20261124090000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3ce38614-0832-4007-89ce-931f8f044a99/16-9" />
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124090000 +0000" stop="20261124093000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fabeb12-fc07-4458-9bf6-9a10eca261dc/16-9" />
+    <episode-num system="xmltv_ns">0.252.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124093000 +0000" stop="20261124100000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10a3e11b-b66c-40dc-af6b-df0a3ee21ff6/16-9" />
+    <episode-num system="xmltv_ns">0.983.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124100000 +0000" stop="20261124103000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/83083612-887b-4a90-a80c-8874f083fdf2/16-9" />
+    <episode-num system="xmltv_ns">0.250.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124103000 +0000" stop="20261124110000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/93ca569c-9d49-400a-80b6-b743aa7e4c85/16-9" />
+    <episode-num system="xmltv_ns">0.416.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124110000 +0000" stop="20261124120000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/97a394da-a1b7-4d37-a808-9898a2775866/16-9" />
+    <episode-num system="xmltv_ns">0.7211.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124120000 +0000" stop="20261124123000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/73f855e6-101b-4387-8e37-30aa04f66601/16-9" />
+    <episode-num system="xmltv_ns">0.523.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124123000 +0000" stop="20261124130000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fabeb12-fc07-4458-9bf6-9a10eca261dc/16-9" />
+    <episode-num system="xmltv_ns">0.252.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124130000 +0000" stop="20261124133000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10a3e11b-b66c-40dc-af6b-df0a3ee21ff6/16-9" />
+    <episode-num system="xmltv_ns">0.983.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124133000 +0000" stop="20261124140000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/83083612-887b-4a90-a80c-8874f083fdf2/16-9" />
+    <episode-num system="xmltv_ns">0.250.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124140000 +0000" stop="20261124143000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/93ca569c-9d49-400a-80b6-b743aa7e4c85/16-9" />
+    <episode-num system="xmltv_ns">0.416.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124143000 +0000" stop="20261124150000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6f1ed416-a971-4e40-aaa7-34505f4976f0/16-9" />
+    <episode-num system="xmltv_ns">0.837.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124150000 +0000" stop="20261124153000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/99bb31d7-d8b2-4aa0-b5a7-123d074852a5/16-9" />
+    <episode-num system="xmltv_ns">0.822.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124153000 +0000" stop="20261124160000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fabeb12-fc07-4458-9bf6-9a10eca261dc/16-9" />
+    <episode-num system="xmltv_ns">0.252.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124160000 +0000" stop="20261124163000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10a3e11b-b66c-40dc-af6b-df0a3ee21ff6/16-9" />
+    <episode-num system="xmltv_ns">0.983.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124163000 +0000" stop="20261124170000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/73f855e6-101b-4387-8e37-30aa04f66601/16-9" />
+    <episode-num system="xmltv_ns">0.523.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124170000 +0000" stop="20261124180000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/11d673fe-d349-4699-8640-42dc4f7692c4/16-9" />
+    <episode-num system="xmltv_ns">0.7212.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124180000 +0000" stop="20261124190000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b67ed495-ef4b-47cc-a6ea-9bc505609d0b/16-9" />
+    <episode-num system="xmltv_ns">0.43.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124190000 +0000" stop="20261124193000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/337c0b7a-f719-4fe0-8e25-8eb7cd7da9f2/16-9" />
+    <episode-num system="xmltv_ns">0.251.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124193000 +0000" stop="20261124200000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8d4f027e-91c2-45f2-b072-5b94d006a2e9/16-9" />
+    <episode-num system="xmltv_ns">0.253.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124200000 +0000" stop="20261124203000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d7133db0-f12b-4c26-b602-0c45c9187b6f/16-9" />
+    <episode-num system="xmltv_ns">0.417.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124203000 +0000" stop="20261124210000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34571057-16e6-4701-ab04-6d25ccc12d29/16-9" />
+    <episode-num system="xmltv_ns">0.984.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124210000 +0000" stop="20261124213000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0292d4ff-aa0a-43b6-a294-eb677d0be3c8/16-9" />
+    <episode-num system="xmltv_ns">0.524.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124213000 +0000" stop="20261124220000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c247bfa8-2e58-4e05-9c76-331c4e29e234/16-9" />
+    <episode-num system="xmltv_ns">0.839.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124220000 +0000" stop="20261124223000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/17dd4834-c649-48fa-9af9-51d6ce34a179/16-9" />
+    <episode-num system="xmltv_ns">0.840.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124223000 +0000" stop="20261124233000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b67ed495-ef4b-47cc-a6ea-9bc505609d0b/16-9" />
+    <episode-num system="xmltv_ns">0.43.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261124233000 +0000" stop="20261125000000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d7133db0-f12b-4c26-b602-0c45c9187b6f/16-9" />
+    <episode-num system="xmltv_ns">0.417.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125000000 +0000" stop="20261125003000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34571057-16e6-4701-ab04-6d25ccc12d29/16-9" />
+    <episode-num system="xmltv_ns">0.984.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125003000 +0000" stop="20261125010000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/337c0b7a-f719-4fe0-8e25-8eb7cd7da9f2/16-9" />
+    <episode-num system="xmltv_ns">0.251.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125010000 +0000" stop="20261125013000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0292d4ff-aa0a-43b6-a294-eb677d0be3c8/16-9" />
+    <episode-num system="xmltv_ns">0.524.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125013000 +0000" stop="20261125020000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8d4f027e-91c2-45f2-b072-5b94d006a2e9/16-9" />
+    <episode-num system="xmltv_ns">0.253.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125020000 +0000" stop="20261125023000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c247bfa8-2e58-4e05-9c76-331c4e29e234/16-9" />
+    <episode-num system="xmltv_ns">0.839.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125023000 +0000" stop="20261125030000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/17dd4834-c649-48fa-9af9-51d6ce34a179/16-9" />
+    <episode-num system="xmltv_ns">0.840.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125030000 +0000" stop="20261125040000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/11d673fe-d349-4699-8640-42dc4f7692c4/16-9" />
+    <episode-num system="xmltv_ns">0.7212.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125040000 +0000" stop="20261125043000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8d4f027e-91c2-45f2-b072-5b94d006a2e9/16-9" />
+    <episode-num system="xmltv_ns">0.253.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125043000 +0000" stop="20261125050000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/337c0b7a-f719-4fe0-8e25-8eb7cd7da9f2/16-9" />
+    <episode-num system="xmltv_ns">0.251.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125050000 +0000" stop="20261125060000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b67ed495-ef4b-47cc-a6ea-9bc505609d0b/16-9" />
+    <episode-num system="xmltv_ns">0.43.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125060000 +0000" stop="20261125063000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0292d4ff-aa0a-43b6-a294-eb677d0be3c8/16-9" />
+    <episode-num system="xmltv_ns">0.524.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125063000 +0000" stop="20261125070000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d7133db0-f12b-4c26-b602-0c45c9187b6f/16-9" />
+    <episode-num system="xmltv_ns">0.417.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125070000 +0000" stop="20261125080000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/11d673fe-d349-4699-8640-42dc4f7692c4/16-9" />
+    <episode-num system="xmltv_ns">0.7212.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125080000 +0000" stop="20261125090000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b67ed495-ef4b-47cc-a6ea-9bc505609d0b/16-9" />
+    <episode-num system="xmltv_ns">0.43.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125090000 +0000" stop="20261125093000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8d4f027e-91c2-45f2-b072-5b94d006a2e9/16-9" />
+    <episode-num system="xmltv_ns">0.253.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125093000 +0000" stop="20261125100000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34571057-16e6-4701-ab04-6d25ccc12d29/16-9" />
+    <episode-num system="xmltv_ns">0.984.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125100000 +0000" stop="20261125103000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/337c0b7a-f719-4fe0-8e25-8eb7cd7da9f2/16-9" />
+    <episode-num system="xmltv_ns">0.251.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125103000 +0000" stop="20261125110000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d7133db0-f12b-4c26-b602-0c45c9187b6f/16-9" />
+    <episode-num system="xmltv_ns">0.417.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125110000 +0000" stop="20261125120000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/11d673fe-d349-4699-8640-42dc4f7692c4/16-9" />
+    <episode-num system="xmltv_ns">0.7212.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125120000 +0000" stop="20261125123000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0292d4ff-aa0a-43b6-a294-eb677d0be3c8/16-9" />
+    <episode-num system="xmltv_ns">0.524.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125123000 +0000" stop="20261125130000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8d4f027e-91c2-45f2-b072-5b94d006a2e9/16-9" />
+    <episode-num system="xmltv_ns">0.253.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125130000 +0000" stop="20261125133000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34571057-16e6-4701-ab04-6d25ccc12d29/16-9" />
+    <episode-num system="xmltv_ns">0.984.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125133000 +0000" stop="20261125140000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/337c0b7a-f719-4fe0-8e25-8eb7cd7da9f2/16-9" />
+    <episode-num system="xmltv_ns">0.251.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125140000 +0000" stop="20261125143000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d7133db0-f12b-4c26-b602-0c45c9187b6f/16-9" />
+    <episode-num system="xmltv_ns">0.417.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125143000 +0000" stop="20261125150000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c247bfa8-2e58-4e05-9c76-331c4e29e234/16-9" />
+    <episode-num system="xmltv_ns">0.839.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125150000 +0000" stop="20261125153000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/17dd4834-c649-48fa-9af9-51d6ce34a179/16-9" />
+    <episode-num system="xmltv_ns">0.840.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125153000 +0000" stop="20261125160000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8d4f027e-91c2-45f2-b072-5b94d006a2e9/16-9" />
+    <episode-num system="xmltv_ns">0.253.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125160000 +0000" stop="20261125163000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34571057-16e6-4701-ab04-6d25ccc12d29/16-9" />
+    <episode-num system="xmltv_ns">0.984.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125163000 +0000" stop="20261125170000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0292d4ff-aa0a-43b6-a294-eb677d0be3c8/16-9" />
+    <episode-num system="xmltv_ns">0.524.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125170000 +0000" stop="20261125180000 +0000">
+    <title lang="en">Rasoi Show</title>
+    <desc lang="en">Invited guests showcase a feast of vegetarian delights from across the globe, sharing unique recipes and cooking techniques that celebrate flavor, culture, and creativity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ba113d2b-fd4d-4922-84c5-f7dd65f4c9bc/16-9" />
+    <episode-num system="xmltv_ns">0.7213.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125180000 +0000" stop="20261125190000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9405ff26-4669-445f-822c-f92fd66bf292/16-9" />
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125190000 +0000" stop="20261125193000 +0000">
+    <title lang="en">Gangasati Panbai</title>
+    <desc lang="en">Follows the spiritual journey of Gujarat's revered saints Maa Gangasati, Panbai and Kahalsang Baapu as they attain spiritual heights within worldly life.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b5e44f34-442c-4e04-909e-23c501b5e0e9/16-9" />
+    <episode-num system="xmltv_ns">0.252.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125193000 +0000" stop="20261125200000 +0000">
+    <title lang="en">Man Melo</title>
+    <desc lang="en">With a bond like chalk and cheese, Swati and Siddharth are forced into a marriage union. As they enter a new chapter of life, will love find its way.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0c64e2f5-3ad7-41d5-8e2a-f9dcbccc5735/16-9" />
+    <episode-num system="xmltv_ns">0.254.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125200000 +0000" stop="20261125203000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f0bf6309-e8b9-4e34-87e4-629a15c56f16/16-9" />
+    <episode-num system="xmltv_ns">0.418.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125203000 +0000" stop="20261125210000 +0000">
+    <title lang="en">Rangai Jaane Rang Ma</title>
+    <desc lang="en">The show follows the lives of two girls unknowingly exchanged at birth by a doctor, played by Dipika Chikhalia, as fate intertwines their journeys in unexpected ways.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4b1f52a1-90a0-4192-8597-2cad23b0f3f3/16-9" />
+    <episode-num system="xmltv_ns">0.985.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125210000 +0000" stop="20261125213000 +0000">
+    <title lang="en">Bhagyalaxmi</title>
+    <desc lang="en">Bhagya, a devoted homemaker, faces constant disrespect and hardships from her family, yet she remains resilient and hopeful, holding her world together with grace.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95c07727-d92e-4909-9870-45683c479fcc/16-9" />
+    <episode-num system="xmltv_ns">0.525.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125213000 +0000" stop="20261125220000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eafd7055-7ccf-4ce7-9c14-8b7febad6272/16-9" />
+    <episode-num system="xmltv_ns">0.841.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125220000 +0000" stop="20261125223000 +0000">
+    <title lang="en">Kahi De Ne Prem Chhe ! - PNP</title>
+    <desc lang="en">Anjali, a cheerful small-town girl, finds her world transformed when she falls for Aaditya, a man completely opposite to her. Their love story blossoms through contrasts and challenges.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9d7b80d0-6083-4aa5-bc79-8c337bff3f96/16-9" />
+    <episode-num system="xmltv_ns">0.842.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125223000 +0000" stop="20261125233000 +0000">
+    <title lang="en">Daily Jalso</title>
+    <desc lang="en">From neighborhood lanes to lively arenas, Daily Jalso follows families through fun challenges packed with authentic Gujarati flavor. Catch the madness as they compete for cash - tune in today.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9405ff26-4669-445f-822c-f92fd66bf292/16-9" />
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="ColorsGujarati.uk" start="20261125233000 +0000" stop="20261126000000 +0000">
+    <title lang="en">Kanku - Rang Parko</title>
+    <desc lang="en">Kanku, once a maid in her foster home, unexpectedly becomes the daughter-in-law of the same house. Her new role brings challenges, testing her strength, dignity, and resilience.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f0bf6309-e8b9-4e34-87e4-629a15c56f16/16-9" />
+    <episode-num system="xmltv_ns">0.418.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+</tv>
