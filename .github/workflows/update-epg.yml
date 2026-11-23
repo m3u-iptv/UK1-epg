@@ -1,0 +1,72 @@
+name: Auto Update UK1 EPG
+
+on:
+  schedule:
+    # Rozana subah 6:00 AM IST (00:30 UTC) par chalega
+    - cron: '30 0 * * *'
+  workflow_dispatch: # Manual chalane ke liye button
+
+permissions:
+  contents: write
+
+jobs:
+  filter-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download and Filter EPG
+        run: |
+          curl -s -L "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" -o full_epg.xml.gz
+          gunzip -f full_epg.xml.gz
+          
+          python3 -c '
+          import xml.etree.ElementTree as ET
+          
+          target_ids = [
+              "Aastha.uk",
+              "ColorsCineplex.uk",
+              "ColorsGujarati.uk",
+              "COLORS.HD.uk"
+              "ColorsRishtey.uk"
+              "Pitaara..uk"
+              "PTC.PUNJABI.uk"
+              "SonLife.uk"
+              "SONY.MAX.2.uk"
+              "SONY.MAX.HD.uk"
+              "SONY.SAB.uk"
+              "SONY.TV.HD.uk"
+              "Utsav.Bharat.uk"
+              "Utsav.Gold.HD.uk"
+              "Utsav.GOLD.uk"
+              "Utsav.Plus.HD.uk"
+              "Zee.Cinema.uk"
+              "Zee.TV.HD.uk"
+          ]
+          
+          tree = ET.parse("full_epg.xml")
+          root = tree.getroot()
+          
+          new_root = ET.Element("tv", root.attrib)
+          
+          for ch in root.findall("channel"):
+              if ch.get("id") in target_ids:
+                  new_root.append(ch)
+                  
+          for prog in root.findall("programme"):
+              if prog.get("channel") in target_ids:
+                  new_root.append(prog)
+                  
+          new_tree = ET.ElementTree(new_root)
+          ET.indent(new_tree, space="  ")
+          new_tree.write("sony_kal.xml", encoding="utf-8", xml_declaration=True)
+          '
+
+      - name: Save and Push Filtered EPG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sony_kal.xml
+          git commit -m "Update EPG channels" || exit 0
+          git push
